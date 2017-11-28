@@ -1,0 +1,71 @@
+MyGame.
+An educational game that teaches HTML.
+(Learning HTML through playing games)
+
+HelloHTML
+
+MyPlan:
+
+HTML.
+     |
+     | 1- Introduction --> # Short intro in what you would learn from my game
+     | 2- HTML Overview
+     | 3- Page Creation
+     | 4- Image Implementation
+     | 5- CSS
+
+Tools.
+# Things to use to create your website
+
+Tags we love
+# What are the used tags in this language
+
+-----------------------------------------------------------------------------------
+# HTML Overview game questions:
+
+	What does HTML stand for?
+	a. Hypertext Markup Language
+	b. Hypertext Mockup Language
+	c. Html Language 
+	d. Not of the above
+
+	Who is the inventor of World Wide Web?
+	a. Microsoft 
+	b. Sir John Dalton
+	c. Sir Tim Berners-Lee
+	d. Bill Gates 
+--------------------------------------------------------------------------------------
+# Page Creation game questions
+	
+	Which of the following HTML code snippets is "well-formed"?
+	a. <p>A<b><i>short</i></b>paragraph</p>
+	b. <p>A<b><i>short</i></b>paragraph
+	c. <p>A<b><i>short</b></i>paragraph</p>
+	d. <p>A<b><i>short<i><b>paragraph<p>
+
+	Which element is used to force the browser to display the next text or element on a new line?
+	a. line()
+	b. p
+	c. br
+	d. hr
+--------------------------------------------------------------------------------------
+# Image Implementation game question
+	Choose the item that creates an image link to algoma.html page when the algoma.png graphic is clicked.
+	a. <a href="algoma.html" src="algoma.png" alt="AlgomaU"></a>
+	b. <a href="algoma.html"><img src="algoma.png" alt="AlgomaU"></a>
+	c. <img src="algoma.png" href="algoma.html" alt="AlgomaU">
+	d. <a href="algoma"><img src="algoma.png" href="alhoma.html" alt="AlgomaU"></a>
+--------------------------------------------------------------------------------------
+# CSS game questopns
+
+	Where in an HTML document is the correct place to refer to an external style sheet?
+	a. Content of the <body> tag
+	b. Content of <html> tag
+	c. After the <DOCTYPE> tag but before any other tags
+	d. Content of the <stayle> tag
+
+	Which of the following CSS style rule would change the text color of an element?
+	a. font-color: red;
+	b. color: red;
+	c. text-color: red;
+	d. color = red;

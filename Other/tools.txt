@@ -1,0 +1,18 @@
+1. Windows Notepad
+a simple text editor for Microsoft Windows and a basic text-editing program which enables computer users to create documents
+
+2. Notepad++
+
+Notepad++ is a free source code editor and Notepad replacement that supports several languages
+Running in the MS Windows environment, its use is governed by GPL License. 
+
+3. jEdit
+jEdit can open, edit, and accordingly highlight syntax in virtually any file.
+Opening multiple files makes life a lot easier. Any missing features can be filled in with plugins
+
+4. SynWrite
+
+
+5. Atom
+Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins
+written in Node.js, and embedded Git Control, developed by GitHub
